@@ -65,3 +65,5 @@ GitHub Repository: Includes the notebook, dataset (or dataset link), and documen
 🌟 Conclusion
 
 This project provides hands-on experience in machine learning model development using Scikit-Learn. It highlights the importance of data preprocessing, algorithm selection, and performance evaluation in building reliable predictive systems. By completing this task, I strengthened my understanding of machine learning concepts, improved my Python programming skills, and gained practical experience in implementing real-world classification problems. This project serves as a strong foundation for more advanced machine learning and data science applications.
+# OUTPUT:-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5586af40-7938-4440-aa05-6daca3da50ec" />
